@@ -13,7 +13,15 @@ O TeleConsulta-Rápida é uma plataforma que permite aos usuários realizar cons
 - **Atendimento Rápido 24hrs:** Realize consultas médicas de forma rápida, sem a necessidade de agendamento prévio e em qualquer momento do dia ou da noite.
 
 ## Instalação
+Smartphone:
 Baixar o aplicativo do Hospital/Clinica inserir seus dados cadastrais e acessar a seção de TeleConsulta-Rápida, digitar alguns dos sintomas que está sentindo e aguardar na fila para ser atendido pelo o Médico disponivel no momento.
+
+Computador:
+Basta acessar o site do hospital, fazer seu login com seus dados e ir até à seção de TeleConsulta-Rápida
+
+## Requisitos
+Ter conexão à internet, sendo de um smartphone ou de um computador
 
 ## Nome: Pedro Henrique
 ## RM: 552746
+
